@@ -4,7 +4,7 @@ Submitted by: **Subham Bhattacharya**
 
 **Flixter+** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -48,7 +48,7 @@ GIF created with Kap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challange I faced building this app was positioning the images bit I later fixed them.
 
 ## License
 
