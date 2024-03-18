@@ -32,6 +32,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='./flixter+.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+
+Glide code: 
+
+<img src='./Screenshot 2024-03-17 at 11.19.21 PM.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 <!-- Recommended tools:
