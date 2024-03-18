@@ -2,7 +2,7 @@
 
 Submitted by: **Subham Bhattacharya**
 
-**Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Flixter+** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **X** hours spent in total
 
